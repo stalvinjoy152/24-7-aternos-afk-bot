@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BBC-SMP.aternos.me",
+    "ip": "BBC-SMP.ater.me",
     "port": 53938,
     "version": "1.20.1",
     "try-creative": false
